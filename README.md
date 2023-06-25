@@ -1,5 +1,5 @@
 # Nessus2Ghostwriter
-A quick and dirty python script to parse Nessus xml into a CSV that can be imported into a SpectreOps Ghostwriter instance
+A quick and dirty Python script to parse Nessus findings into a CSV that can be imported into a SpectreOps Ghostwriter instance
 
 ### Usage
 ```
