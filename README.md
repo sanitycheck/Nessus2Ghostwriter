@@ -5,5 +5,5 @@ A quick and dirty Python script to parse Nessus findings into a CSV that can be 
 ```
 usage: Nessus2Ghostwriter.py [-h] [--output-format {csv,yaml}] file_path output_file
 
-# python3 sample.nessus gw_import.csv --output-format csv
+# python3 Nessus2Ghostwriter.py sample.nessus gw_import.csv --output-format csv
 ```
